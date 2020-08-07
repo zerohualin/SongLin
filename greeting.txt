@@ -1,4 +1,4 @@
-Daily Greetings
+﻿Daily Greetings
 
 每天整几个小目标吧
 
@@ -6,4 +6,8 @@ Daily Greetings
 1 配一下远程操控。暂停teamview
 2 安装 VS CODE
 3 研究 html js 需要达成的第一阶段目标
+--------
+
+---lin-20200807---
+1 研究微信小程序需要相关准备工作。
 --------
